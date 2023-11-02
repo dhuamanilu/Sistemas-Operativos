@@ -770,3 +770,253 @@ gcc ejercicio07.c -lpthread -o ejercicio07
 cat ejercicio07.c
 gcc ejercicio07.c -lpthread -o ejercicio07
 ./ejercicio07
+cd lab6
+ls
+geany
+gcc ejercicio08.c -pthread -o ejercicio08
+geany
+gcc ejercicio08.c -pthread -o ejercicio08
+cat ejercicio08.c
+gcc ejercicio08.c -pthread -o ejercicio08
+./ejercicio08
+geany
+gcc ejercicio09.c -lpthread -o message_send
+cat ejercicio09.c
+gcc ejercicio09.c -lpthread -o message_send
+./ejercicio09
+gcc ejercicio09.c -lpthread -o ejercicio09
+./ejercicio09
+ls
+geany
+gcc ejercicio10.c -lpthread -o ejercicio10
+cat ejercicio10.c
+gcc ejercicio10.c -lpthread -o ejercicio10
+
+gcc ejercicio10.c -lpthread -o ejercicio10
+./ejercicio10
+gcc ejercicio10.c -lpthread -o ejercicio10
+./ejercicio10
+geany
+gcc propuesto1.c -o propuesto1
+./propuesto1
+cat propuesto1.c
+geany
+cat propuesto2.c
+gcc propuesto2.c -o propuesto2
+./propuesto2
+geany
+clear
+cat propuesto3.c
+gcc propuesto3.c -o propuesto3
+./propuesto3
+git add .
+git commit -m "terminando de resolver"
+git push origin main
+git remote add origin https://github.com/dhuamanilu/Sistemas-Operativos.git
+git push origin main
+git branch -M main
+git push -u origin main
+git push origin main
+cd ..
+git status
+git init
+git branch -m main
+cd lab6
+ls 
+ls -la
+rm -r .git
+Y
+ls -la
+rm -r .git
+Y
+ls -la
+cd ..
+git init
+git branch -m main
+git remote add origin https://github.com/dhuamanilu/Sistemas-Operativos.git
+git push origin main
+git
+git init
+git push -u origin main
+git push  origin main
+git config --global user.email "dhuamanilu@unsa.edu.pe"
+git config -l
+git push origin main
+git add .
+chmod decimo.txt 777
+chmod --help
+git add .
+chmod +777 decimo.txt
+ls
+cd lab4
+chmod +777 decimo.txt
+cd ..
+git add .
+git commit -m "agragando todos los archivos"
+git push origin main
+git pull origin main
+git remote add origin https://github.com/dhuamanilu/Sistemas-operativos.git
+git remote -v
+git remote remove origin
+git remote -v
+git remote add origin https://github.com/dhuamanilu/Sistemas-operativos.git
+git push origin main
+sudo apt full-upgrade
+sudo apt update
+malpacap
+sudo apt update
+sudo du
+sudo su
+jobs
+kill %1
+kill %2
+jobs
+kill %2
+jobs
+kill %2
+jobs
+sudo su
+cd lab6
+ls
+cat ejercicio01.c 
+./ejercicio01
+cat ejercicio02.c
+gcc -w ejercicio02.c -lpthread -o ejercicio02
+./ejercicio02
+cat ejercicio03.c
+gcc ejercicio03.c -lpthread -o ejercicio03
+./ejercicio03
+bat ejercicio03.c
+ls
+mkdir lab7
+cd lab7
+ls
+geany
+gcc -w ejercicio01.c -lpthread -o ejercicio01
+./ejercicio01
+cat ejercicio01.c
+./ejercicio01
+geany
+gcc -w ejercicio02.c -lpthread -o ejercicio02
+./ejercicio02
+cat ejercicio02.c
+geany
+gcc ejercicio03.c -lpthread -o ejercicio03
+geany
+gcc ejercicio03.c -lpthread -o ejercicio03
+./ejercicio03
+geany
+gcc ejercicio03.c -lpthread -o ejercicio03
+./ejercicio03
+geany
+cat ejercicio03.c
+geany
+gcc ejercicio03.c -lpthread -o ejercicio03
+./ejercicio03
+geanty
+geany
+gcc ejercicio04.c -lpthread -o ejercicio04
+geany
+gcc ejercicio04.c -lpthread -o ejercicio04
+./ejercicio04
+cat ejercicio04.c
+geany
+gcc ejercicio05.c -lpthread -o ejercicio05
+./ejercicio05
+cat ejercicio05.c
+geany
+gcc ejercicio06.c -lpthread -o ejercicio06
+GEANY
+geany
+gcc ejercicio06.c -lpthread -o ejercicio06
+./ejercicio06
+ls 
+./ejercicio06 hola.txt hola2.txt
+geany hola.txt
+ls
+rm hola.2txt
+rm h2.a.2txt
+sl
+ls
+geany
+cat ejercicio06.c
+gcc ejercicio06.c -lpthread -o ejercicio06
+./ejercicio06 hola.txt hola2.txt
+geany
+gcc ejercicio07.c -lpthread -o ejercicio07
+geany
+gcc ejercicio07.c -lpthread -o ejercicio07
+geany
+gcc ejercicio07.c -lpthread -o ejercicio07
+./ejercicio07
+cat ejercicio07.c
+gcc ejercicio07.c -lpthread -o ejercicio07
+./ejercicio07
+geany
+gcc ejercicio08.c -pthread -o ejercicio08
+./ejercicio08
+cat ejercicio08.c
+gcc ejercicio08.c -pthread -o ejercicio08
+./ejercicio08
+jobs
+ps
+geany
+gcc ejercicio09.c -lpthread -o message_send
+./ejercicio09
+ls
+gcc ejercicio09.c -lpthread -o ejercicio09
+./ejercicio09
+cat ejercicio09.c
+gcc ejercicio09.c -lpthread -o ejercicio09
+./ejercicio09
+geany
+gcc ejercicio10.c -lpthread -o ejercicio10
+geany
+gcc ejercicio10.c -lpthread -o ejercicio10
+./ejercicio10
+cat ejercicio10.c
+gcc ejercicio10.c -lpthread -o ejercicio10
+./ejercicio10
+geany
+gcc propuesto1.c -lpthread -o propuesto1
+./propuesto1
+cat propuesto1.c
+gcc propuesto1.c -lpthread -o propuesto1
+./propuesto1
+geany
+gcc propuesto1.c -lpthread -o propuesto1
+./propuesto1
+geany
+gcc propuesto1.c -lpthread -o propuesto1
+./propuesto1
+clear
+gcc propuesto1.c -lpthread -o propuesto1
+./propuesto1
+geamy
+geany
+gcc propuesto2.c -lpthread -o propuesto2
+./propuesto2
+cat propuesto2.c
+gcc propuesto2.c -lpthread -o propuesto2
+./propuesto2
+clear 
+cat ejercicio01.c
+gcc ejercicio01.c -lpthread -o ejercicio01
+./ejercicio01
+geany
+gcc propuesto3.c -lpthread -o propuesto3
+./propuesto3
+cat propuesto3.c
+gcc propuesto3.c -lpthread -o propuesto3
+./propuesto3
+clear
+cat ejercicio01.c
+./ejercicio01
+cat ejercicio02.c
+clear
+cat ejercicio01.c
+./ejercicio01
+./ejercicio02
+cat ejercicio02.c
+cat ejercicio03.c
+./ejercicio03

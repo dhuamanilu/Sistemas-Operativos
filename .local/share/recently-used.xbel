@@ -770,4 +770,238 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/diego/lab7/ejercicio01.c" added="2023-10-25T18:08:01.209622Z" modified="2023-10-25T18:08:01.461744Z" visited="2023-10-25T18:08:01.209623Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-10-25T18:08:01.461743Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/diego/lab7/ejercicio02.c" added="2023-10-25T18:11:07.370228Z" modified="2023-10-25T18:11:07.627853Z" visited="2023-10-25T18:11:07.370229Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-10-25T18:11:07.627849Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/diego/lab7/ejercicio03.c" added="2023-10-25T19:21:47.172001Z" modified="2023-10-25T19:21:47.421053Z" visited="2023-10-25T19:21:47.172002Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-10-25T19:21:47.421052Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/diego/lab7/ejercicio04.c" added="2023-10-25T19:27:52.442447Z" modified="2023-10-25T19:27:52.703204Z" visited="2023-10-25T19:27:52.442448Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-10-25T19:27:52.703199Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/diego/lab7/ejercicio05.c" added="2023-10-25T19:31:09.774930Z" modified="2023-10-25T19:31:10.024303Z" visited="2023-10-25T19:31:09.774931Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-10-25T19:31:10.024301Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/diego/lab7/ejercicio06.c" added="2023-10-25T19:32:16.976470Z" modified="2023-10-25T19:32:17.220836Z" visited="2023-10-25T19:32:16.976472Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-10-25T19:32:17.220835Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/diego/lab7/hola.txt" added="2023-10-25T19:42:41.760456Z" modified="2023-10-25T19:42:41.760460Z" visited="2023-10-25T19:42:41.760457Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-10-25T19:42:41.760458Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/diego/lab7/hola.2txt" added="2023-10-25T19:43:14.360652Z" modified="2023-10-25T19:43:14.611396Z" visited="2023-10-25T19:43:14.360654Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-10-25T19:43:14.611395Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/diego/lab7/h2.a.2txt" added="2023-10-25T19:43:31.087336Z" modified="2023-10-25T19:43:31.338442Z" visited="2023-10-25T19:43:31.087337Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-10-25T19:43:31.338438Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/diego/lab7/hola2.txt" added="2023-10-25T19:44:05.295390Z" modified="2023-10-25T19:44:05.547247Z" visited="2023-10-25T19:44:05.295391Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-10-25T19:44:05.547243Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/diego/lab7/ejercicio07.c" added="2023-10-25T19:45:36.211667Z" modified="2023-10-25T19:45:36.468650Z" visited="2023-10-25T19:45:36.211667Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-10-25T19:45:36.468645Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/diego/lab7/ejercicio08.c" added="2023-10-25T19:48:38.741951Z" modified="2023-10-25T19:48:38.992087Z" visited="2023-10-25T19:48:38.741953Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-10-25T19:48:38.992086Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/diego/lab7/ejercicio09.c" added="2023-10-25T19:52:45.114929Z" modified="2023-10-25T19:52:45.342240Z" visited="2023-10-25T19:52:45.114930Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-10-25T19:52:45.342238Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/diego/lab7/ejercicio10.c" added="2023-10-25T19:54:47.003041Z" modified="2023-10-25T19:54:47.247092Z" visited="2023-10-25T19:54:47.003042Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-10-25T19:54:47.247091Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/diego/lab7/propuesto1.c" added="2023-10-25T20:00:31.979631Z" modified="2023-10-25T20:00:32.228164Z" visited="2023-10-25T20:00:31.979632Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-10-25T20:00:32.228162Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/diego/lab7/propuesto2.c" added="2023-10-25T20:09:45.141515Z" modified="2023-10-25T20:09:45.390554Z" visited="2023-10-25T20:09:45.141516Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-10-25T20:09:45.390552Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/diego/lab7/propuesto3.c" added="2023-10-25T20:14:23.285191Z" modified="2023-10-25T20:14:23.544114Z" visited="2023-10-25T20:14:23.285192Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-10-25T20:14:23.544109Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/diego/.gitignore" added="2023-11-02T21:20:39.317704Z" modified="2023-11-02T21:20:39.317707Z" visited="2023-11-02T21:20:39.317704Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-11-02T21:20:39.317705Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
