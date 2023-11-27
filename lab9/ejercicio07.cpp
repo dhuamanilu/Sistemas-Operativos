@@ -7,6 +7,6 @@ int main(){
 	std::thread t(&thread_function);
 	std::cout << "Thread principal\n";
 	t.detach();
-	t.join(); //error
+	//t.join(); //error
 	return 0;
 }
